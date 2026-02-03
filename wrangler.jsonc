@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "carriercostingapi",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "Carrier_Costing_db",
+			"database_id": "d47385ab-15b6-4234-9aee-3ccb3c7e2553"
+		}
+	]
+}
